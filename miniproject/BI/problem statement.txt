@@ -1,0 +1,4 @@
+Mini Project: Each group of 4 Students (max) assigned one case study for this;
+A BI report must be prepared outlining the following steps:
+a) Problem definition, identifying which data mining task is needed.
+b) Identify and use a standard data mining dataset available for the problem.
